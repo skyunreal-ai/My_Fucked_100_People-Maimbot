@@ -9,7 +9,7 @@
   },
   "license": "MIT",
   "keywords": ["qq", "娱乐", "哈基米", "command"],
-  "categories": ["娱乐"],
+  "categories": ["Entertainment & Interaction"],
   "host_application": {
     "min_version": "0.10.0"
   },
@@ -26,3 +26,4 @@
   }
 
 }
+
